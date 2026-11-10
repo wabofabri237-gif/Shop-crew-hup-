@@ -1,0 +1,15 @@
+# Roadmap
+- [ ] Corriger la configuration de déploiement Vercel sans remplacer TanStack Start.
+- [ ] Vérifier le site public et relancer Vercel si un accès au projet est disponible.
+- [x] Ajouter le serveur MCP protégé avec lectures limitées et permissions existantes.
+- [x] Ajouter le consentement OAuth et préserver le retour après connexion.
+- [x] Ajouter les outils de lecture pour agents dans le navigateur.
+- [x] Vérifier le manifeste, les refus d’accès et le consentement (service réel, origine publique simulée pour le test local).
+- [x] Améliorer l’accueil et les cartes produits sans modifier les workflows métier.
+- [x] Créer les dix catégories et filtrer uniquement les produits correspondants.
+- [x] Séparer Catégories et Boutiques dans la navigation, y compris mobile.
+- [x] Vérifier navigation, filtres, panier et affichage mobile/ordinateur.
+- [x] Vérifier la disponibilité du site, du service de connexion, de Google et du backend.
+- [x] Sécuriser le retour de connexion sur une page publique dédiée et confirmer la session avant redirection.
+- [x] Rendre le logo lisible sur fond sombre sans carré blanc.
+- [x] Tester la connexion Google jusqu'à Google, le retour sans session et l'affichage mobile.
