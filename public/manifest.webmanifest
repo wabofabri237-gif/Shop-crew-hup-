@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Shop Crew Hub",
+  "short_name": "Shop Crew Hub",
+  "description": "Achetez sur Shop Crew Hub et faites-vous livrer à domicile au Cameroun.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0b1b2e",
+  "background_color": "#0b1b2e",
+  "categories": ["shopping", "business"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
