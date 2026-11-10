@@ -1,0 +1,23 @@
+# Roadmap
+- [x] Enregistrer les messages de contact et assistance, visibles dans l’administration, sans changer les candidatures vendeur/livreur existantes.
+- [ ] Activer les notifications e-mail pour contact et candidatures : domaine d’envoi appartenant au propriétaire non configuré.
+- [x] Tester le retour avec une session autorisée : compte, rechargement et destination Mes commandes, sans erreur navigateur.
+- [ ] Tester l’autorisation Google complète : sélection du compte et validation Google à effectuer par le propriétaire.
+- [x] Réparer le retour de connexion et compléter les fiches et rôles client manquants sans supprimer de données.
+- [x] Vérifier les réglages, Google jusqu’à sa page de connexion et le retour authentifié réel vers Mon compte.
+- [ ] Vérifier une nouvelle inscription jusqu’au clic sur l’e-mail : accès à une boîte de réception de test non disponible.
+- [x] Corriger la configuration de déploiement Vercel sans remplacer TanStack Start.
+- [x] Vérifier le site public : accueil, connexion et catégories répondent normalement.
+- [ ] Relancer et vérifier Vercel : accès au projet Vercel et rapport exact du déploiement non disponibles.
+- [x] Ajouter le serveur MCP protégé avec lectures limitées et permissions existantes.
+- [x] Ajouter le consentement OAuth et préserver le retour après connexion.
+- [x] Ajouter les outils de lecture pour agents dans le navigateur.
+- [x] Vérifier le manifeste, les refus d’accès et le consentement (service réel, origine publique simulée pour le test local).
+- [x] Améliorer l’accueil et les cartes produits sans modifier les workflows métier.
+- [x] Créer les dix catégories et filtrer uniquement les produits correspondants.
+- [x] Séparer Catégories et Boutiques dans la navigation, y compris mobile.
+- [x] Vérifier navigation, filtres, panier et affichage mobile/ordinateur.
+- [x] Vérifier la disponibilité du site, du service de connexion, de Google et du backend.
+- [x] Sécuriser le retour de connexion sur une page publique dédiée et confirmer la session avant redirection.
+- [x] Rendre le logo lisible sur fond sombre sans carré blanc.
+- [x] Tester la connexion Google jusqu'à Google, le retour sans session et l'affichage mobile.
